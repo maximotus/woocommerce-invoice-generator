@@ -52,6 +52,7 @@ public class EmailService {
 
         message.setFrom(from);
         message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(to));
+        message.addRecipient(Message.RecipientType.BCC, from);
 
         String subject = this.subject + id;
         message.setSubject(subject);
