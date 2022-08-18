@@ -25,7 +25,7 @@ public class Main {
     private static final String INFO_TEXT_3 = "PATH_TO_COMPANY_CONFIG: relative or absolute path to the company configuration file of type .json (e.g. C:/Users/Public/Documents/company.json)";
     private static final String INFO_TEXT_4 = "PATH_TO_ORDERS_CONFIG: relative or absolute path to the orders data file of type .json (e.g. C:/Users/Public/Documents/company.json)";
     private static final String INFO_TEXT_5 = "PATH_TO_INVOICE_CONFIG: relative or absolute path to the invoice configuration file of type .json (e.g. C:/Users/Public/Documents/company.json)";
-    private static final String INFO_TEXT_6 = "Example configurations with the required formats can be found at TODO";
+    private static final String INFO_TEXT_6 = "Example configurations with the required formats can be found in src/main/resources/data";
     private static final String HELP_TEXT = "Pass [h]elp as a command line argument for usage details";
 
     private static final String[] helpKeys = new String[]{"help", "h", "info", "hel", "he"};
