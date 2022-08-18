@@ -1,0 +1,19 @@
+{
+  "email": {
+    "address": "",
+    "password": "",
+    "host": "",
+    "port": "",
+    "tls": true,
+    "auth": true,
+    "debug": true,
+    "protocol": "TLSv1.2",
+    "trust": "",
+    "from": "Max",
+    "subject": "Invoice No.",
+    "salutation": "Dear Mr/Mrs ",
+    "message": "thanks for your order. You will find the invoice in the attachments.",
+    "greetings": "Best regards,",
+    "signature": "Max"
+  }
+}

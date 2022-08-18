@@ -1,0 +1,50 @@
+{
+  "label": "",
+  "name": "",
+  "declaration": "",
+  "taxNumber": "",
+  "address": {
+    "street": "",
+    "streetNumber": "",
+    "zipCode": "",
+    "location": "",
+    "country": ""
+  },
+  "shareholders": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "address": {
+        "street": "",
+        "streetNumber": "",
+        "zipCode": "",
+        "location": "",
+        "country": ""
+      },
+      "contact": {
+        "email": "",
+        "phone": ""
+      }
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "address": {
+        "street": "",
+        "streetNumber": "",
+        "zipCode": "",
+        "location": "",
+        "country": ""
+      },
+      "contact": {
+        "email": "",
+        "phone": ""
+      }
+    }
+  ],
+  "bankAccount": {
+    "iban": "",
+    "bic": "",
+    "bankName": ""
+  }
+}

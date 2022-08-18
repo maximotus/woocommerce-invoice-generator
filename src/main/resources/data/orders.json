@@ -1,0 +1,47 @@
+[
+  {
+    "order_number": "2037",
+    "order_status": "Abgeschlossen",
+    "order_date": "2022-08-10 18:21",
+    "customer_note": "",
+    "billing_first_name": "",
+    "billing_last_name": "",
+    "billing_company": "",
+    "billing_address": "",
+    "billing_city": "",
+    "billing_state": "",
+    "billing_postcode": "",
+    "billing_country": "DE",
+    "billing_email": "",
+    "billing_phone": "",
+    "shipping_first_name": "",
+    "shipping_last_name": "",
+    "shipping_address": "",
+    "shipping_city": "",
+    "shipping_state": "",
+    "shipping_postcode": "",
+    "shipping_country": "",
+    "payment_method_title": "",
+    "cart_discount": "",
+    "order_subtotal": 55.4,
+    "shipping_method_title": "",
+    "order_shipping": "15.58",
+    "order_refund": 0,
+    "products": [
+      {
+        "sku": "0250",
+        "line_id": 1,
+        "name": "PRODUCT A",
+        "qty": "5",
+        "item_price": 7.9
+      },
+      {
+        "sku": "0500",
+        "line_id": 2,
+        "name": "PRODUCT B",
+        "qty": "1",
+        "item_price": 15.9
+      }
+    ]
+  }
+]
