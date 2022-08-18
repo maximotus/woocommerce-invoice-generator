@@ -6,7 +6,7 @@ This is a handy Java program for the automation of invoice generation and dispat
 
 There are three configuration files concerning the invoice generation:
 
-1. `src/main/resources/data/company.json` defines all necessary values of the company that creates the invoice(e.g. company name, tax number, address, etc.)
+1. `src/main/resources/data/company.json` defines all necessary values of the company that creates the invoice (e.g. company name, tax number, address, etc.)
 2. `src/main/resources/data/orders.json` defines the orders exported from WooCommerce for which invoices are to be created (e.g. use [Advanced Order Export For WooCommerce of AlgolPlus](https://de.wordpress.org/plugins/woo-order-export-lite/) for the order export in JSON format)
 3. `src/main/resources/data/invoice.json` defines texts and layout of the invoice (e.g. header text, heading, paragraphs and font sizes)
 
